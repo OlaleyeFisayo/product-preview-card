@@ -110,17 +110,17 @@ button:active {
 
 @media (max-width: 500px) {
     .box{
-        width: 360px;
+        width: 340px;
         height: auto;
         display: grid;
-        grid-template-columns: 360px;
-        grid-template-rows: 250px auto;
+        grid-template-columns: 340px;
+        grid-template-rows: 200px auto;
         border-radius: 8px;
     }
 
     .preview {
         background: var(--white);
-        padding: 30px;
+        padding: 20px;
     }
 
     .perfume-img {
