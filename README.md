@@ -24,10 +24,10 @@
 
 ### Screenshot
 
-[Desktop view](images\desktop_view.png)
+[Desktop view](./images/desktop_view.png)
 
 
-[Mobile view](images\mobile-view.png)
+[Mobile view](./images/mobile-view.png)
 
 
 ### Links
