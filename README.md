@@ -32,8 +32,8 @@
 
 ### Links
 
-- [Github repository](https://your-solution-url.com)
-- [Github pages](https://your-live-site-url.com)
+- [Github repository](https://github.com/OlaleyeFisayo/product-preview-card)
+- [Github pages](https://olaleyefisayo.github.io/product-preview-card/)
 
 ## My process
 
@@ -50,5 +50,5 @@ This portion was utilized to put the grid into practice. Area and column of the 
 
 ## Author
 
-- [Github profile](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github profile [@OlaleyeFisayo](https://github.com/OlaleyeFisayo)
+- Frontend Mentor - [@OlaleyeFisayo](https://www.frontendmentor.io/profile/OlaleyeFisayo)
